@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=D-LozanoC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=D-LozanoC&theme=dark&hide_border=false)<br/>
-![D-LozanoC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-LozanoC&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![D-LozanoC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-LozanoC&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D-LozanoC&icon=0&color=0)](https://visitcount.itsvg.in)
