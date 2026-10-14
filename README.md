@@ -1,64 +1,48 @@
-# David Lozano
+<div align="center">
+
+# Hi, I'm David Lozano
 
 ### QA Engineer | Software Testing | Telematics Engineering Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-lozano-clavijo)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D-LozanoC)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidalexisloz1@gmail.com)
+<a href="https://linkedin.com/in/david-lozano-clavijo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:davidalexisloz1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-## 💫 About Me
+</div>
+
+---
+
+## 👋 About Me
 
 I'm a **QA Engineer focused on manual, scripted, and exploratory testing**, with experience validating functional requirements, checking acceptance criteria, identifying defects, and documenting actionable findings.
 
-I'm a Data Systems Technologist pursuing a B.Sc. in Telematics Engineering and completing TripleTen's QA Engineer bootcamp. My background includes software research and development, requirements validation, issue investigation, and process documentation. Programming with C++ and Python strengthens my analytical approach to understanding software behavior.
+I'm a Data Systems Technologist currently pursuing a B.Sc. in Telematics Engineering and completing TripleTen's QA Engineer bootcamp. My background in software research and development, combined with programming experience in C++ and Python, supports my analytical approach to software quality.
 
-I'm particularly interested in **Software QA and Game QA**, combining attention to detail, critical thinking, and a solid understanding of software development processes to help deliver reliable software.
+I'm particularly interested in **Software QA and Game QA**, with a focus on systematic testing, defect investigation, and delivering reliable software.
 
 ## 🛠️ Skills & Technologies
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<h3 align="right">💻 Tech Stack</h3>
+<img align="right" width="43%" src="https://skillicons.dev/icons?i=python,cpp,ts,postgres,mysql,git,github&perline=3&theme=dark" alt="Python, C++, TypeScript, PostgreSQL, MySQL, Git and GitHub">
 
 ### 🧪 QA & Testing
 
-- Manual Testing
-- Scripted Testing
-- Exploratory Testing
-- Test Case Management
-- Requirements & Acceptance Criteria Validation
-- Defect Identification & Reporting
-- Test Result Analysis
-- SDLC & GDLC
+- Manual, scripted, and exploratory testing
+- Test case management and test execution
+- Functional requirements and acceptance criteria validation
+- Defect identification, documentation, and reporting
+- Test result analysis and process documentation
+- Software and Game Development Life Cycles (SDLC/GDLC)
 
-</td>
-<td width="50%" valign="top">
+### 🔧 QA Tools
 
-### 💻 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+</p>
 
-**QA Tools**
+<br clear="right">
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Databases & Version Control**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</td>
-</tr>
-</table>
 ## 🏆 Leadership & Achievements
 
 **Chair — IEEE Computer Society Technical Chapter**  
@@ -68,23 +52,19 @@ Leading technical initiatives and coordinating activities that promote technolog
 
 - **3rd Place:** GNU/Linux Group Hackathon (GLUD)
 - **Special Mention for Creativity and Innovation:** LogView360 Hackathon
-- **Aspire Leaders Program Alumni:** Aspire Institute, 2025
+- **2025 Aspire Leaders Program:** Aspire Institute
 
 ## 📊 GitHub Overview
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=D-LozanoC&show_icons=true&hide_border=true&theme=github_dark" alt="David's GitHub statistics">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-LozanoC&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=D-LozanoC&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=D-LozanoC&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-LozanoC&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages">
 </div>
+
+---
 
 <div align="center">
 
-*Always learning, testing, and building better software.*
+*Focused on testing, continuous learning, and software quality.*
 
 </div>
-
