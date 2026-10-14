@@ -16,7 +16,7 @@ I'm particularly interested in **Software QA and Game QA**, combining attention 
 
 ## 🛠️ Skills & Technologies
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -59,7 +59,6 @@ I'm particularly interested in **Software QA and Game QA**, combining attention 
 </td>
 </tr>
 </table>
-
 ## 🏆 Leadership & Achievements
 
 **Chair — IEEE Computer Society Technical Chapter**  
@@ -69,7 +68,7 @@ Leading technical initiatives and coordinating activities that promote technolog
 
 - **3rd Place:** GNU/Linux Group Hackathon (GLUD)
 - **Special Mention for Creativity and Innovation:** LogView360 Hackathon
-- **Aspire Leaders Program:** Aspire Institute, 2025
+- **Aspire Leaders Program Alumni:** Aspire Institute, 2025
 
 ## 📊 GitHub Overview
 
