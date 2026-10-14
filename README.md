@@ -62,11 +62,19 @@ Leading technical initiatives and coordinating activities that promote technolog
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-LozanoC&show_icons=true&hide_border=true&theme=github_dark)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-LozanoC&layout=compact&hide_border=true&theme=github_dark)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=D-LozanoC&show_icons=true&hide_border=true&theme=github_dark" alt="David's GitHub statistics">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-LozanoC&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages">
 
-*Always learning, testing, and improving software quality.*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=D-LozanoC&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
+
+</div>
+
+<div align="center">
+
+*Always learning, testing, and building better software.*
+
+</div>
 
