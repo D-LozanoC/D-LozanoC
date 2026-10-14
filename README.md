@@ -1,109 +1,72 @@
- <div align="center">
-
 # David Lozano
 
-### QA Engineer · Software Testing · Telematics Engineering
+### QA Engineer | Software Testing | Telematics Engineering Student
 
-Bogotá, Colombia
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-lozano-clavijo)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D-LozanoC)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidalexisloz1@gmail.com)
 
-<a href="https://linkedin.com/in/david-lozano-clavijo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/D-LozanoC"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:davidalexisloz1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+## 💫 About Me
 
-</div>
+I'm a **QA Engineer focused on manual, scripted, and exploratory testing**, with experience validating functional requirements, checking acceptance criteria, identifying defects, and documenting actionable findings.
 
----
+I'm a Data Systems Technologist pursuing a B.Sc. in Telematics Engineering and completing TripleTen's QA Engineer bootcamp. My background includes software research and development, requirements validation, issue investigation, and process documentation. Programming with C++ and Python strengthens my analytical approach to understanding software behavior.
 
-## About Me
+I'm particularly interested in **Software QA and Game QA**, combining attention to detail, critical thinking, and a solid understanding of software development processes to help deliver reliable software.
 
-I'm a QA Engineer focused on **manual, scripted, and exploratory testing**, with experience validating functional requirements, analyzing defects, and documenting actionable bug reports using Jira.
-
-Currently pursuing a degree in Telematics Engineering after completing my degree in Data Systems. My background in software development, research, and programming with C++ and Python supports my analytical approach to software quality.
-
-Outside development, I lead technical initiatives as Chair of my university's IEEE Computer Society Technical Chapter.
-
-- **Current focus:** Software QA and Game QA
-- **Testing:** Test cases, acceptance criteria, defect reporting, and test result analysis
-- **Languages:** C++, Python, JavaScript, TypeScript, and SQL
-- **Languages spoken:** Spanish and English
-
-## Technical Skills
-
-### Testing & Quality Assurance
+## 🧪 QA & Testing
 
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-2D6A4F?style=flat-square)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-2D6A4F?style=flat-square)
 ![Scripted Testing](https://img.shields.io/badge/Scripted_Testing-2D6A4F?style=flat-square)
-![Test Cases](https://img.shields.io/badge/Test_Case_Management-2D6A4F?style=flat-square)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-2D6A4F?style=flat-square)
+![Test Case Management](https://img.shields.io/badge/Test_Case_Management-2D6A4F?style=flat-square)
 ![Defect Reporting](https://img.shields.io/badge/Defect_Reporting-2D6A4F?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-### Programming Languages
+Requirements & Acceptance Criteria · Test Result Analysis · Process Documentation · SDLC & GDLC
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" alt="C++, Python, JavaScript, TypeScript">
-</p>
+## 💻 Tech Stack
 
-### Development & Databases
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,postgres,mysql,prisma,git,github" alt="Development tools and technologies">
-</p>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Experience & Leadership
+**Development & Databases**
 
-**Researcher — Metis Research Group**  
-*Universidad Distrital Francisco José de Caldas · 2024–2026*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Validated user stories and functional requirements against acceptance criteria.
-- Identified and documented inconsistencies between requirements and implemented functionality.
-- Contributed to the development and validation of a Knowledge Management System prototype.
-- Worked with Scrum practices and technical documentation.
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
+
+## 🏆 Leadership & Achievements
 
 **Chair — IEEE Computer Society Technical Chapter**  
-*2025–Present*
+Universidad Distrital Francisco José de Caldas · 2025–Present
 
-- Led planning for seven technical and professional development activities.
-- Organized five technical events and coordinated multidisciplinary teams.
-- Collaborated with professionals and communities in computing-related fields.
+Leading technical initiatives and coordinating activities that promote technology and professional development within the university community.
 
-**Bilingual Agent — Foundever**  
-*January 2026–Present*
+- **3rd Place:** GNU/Linux Group Hackathon (GLUD)
+- **Special Mention for Creativity and Innovation:** LogView360 Hackathon
+- **Aspire Leaders Program:** Aspire Institute, 2025
 
-- Investigate user-reported issues and reproduce scenarios to identify their causes.
-- Analyze recurring patterns and suspicious activity across cases.
-- Improve documentation consistency through standardized workflows and templates.
+## 📊 GitHub Overview
 
-## Education
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-LozanoC&show_icons=true&hide_border=true&theme=github_dark)
 
-- **B.Sc. in Telematics Engineering** — Universidad Distrital Francisco José de Caldas *(2026–Present)*
-- **Associate Degree in Data Systematization** — Universidad Distrital Francisco José de Caldas *(2022–2026)*
-- **QA Engineer Bootcamp** — Tripleten *(2026)*
-- **Diploma in Quantum Computing** — Universidad Distrital Francisco José de Caldas *(2025)*
-
-## Achievements
-
-- **3rd Place** — GNU/Linux Group Hackathon (GLUD)
-- **Special Mention for Creativity and Innovation** — LogView360 Hackathon
-- **Aspire Leaders Program** — Aspire Institute, 2025
-- **Participation Recognition** — SKYRAPTOR, CanSat 2025, UNAM
-
-## GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=D-LozanoC&show_icons=true&hide_border=true&theme=github_dark" alt="David's GitHub statistics">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-LozanoC&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=D-LozanoC&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-LozanoC&layout=compact&hide_border=true&theme=github_dark)
 
 ---
 
-<div align="center">
+*Always learning, testing, and improving software quality.*
 
-*Always learning, testing, and building better software.*
-
-</div>
