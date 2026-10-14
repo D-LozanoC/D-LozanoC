@@ -14,41 +14,51 @@ I'm a Data Systems Technologist pursuing a B.Sc. in Telematics Engineering and c
 
 I'm particularly interested in **Software QA and Game QA**, combining attention to detail, critical thinking, and a solid understanding of software development processes to help deliver reliable software.
 
-## 🧪 QA & Testing
+## 🛠️ Skills & Technologies
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-2D6A4F?style=flat-square)
-![Scripted Testing](https://img.shields.io/badge/Scripted_Testing-2D6A4F?style=flat-square)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-2D6A4F?style=flat-square)
-![Test Case Management](https://img.shields.io/badge/Test_Case_Management-2D6A4F?style=flat-square)
-![Defect Reporting](https://img.shields.io/badge/Defect_Reporting-2D6A4F?style=flat-square)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 QA & Testing
+
+- Manual Testing
+- Scripted Testing
+- Exploratory Testing
+- Test Case Management
+- Requirements & Acceptance Criteria Validation
+- Defect Identification & Reporting
+- Test Result Analysis
+- SDLC & GDLC
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Tech Stack
+
+**QA Tools**
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-Requirements & Acceptance Criteria · Test Result Analysis · Process Documentation · SDLC & GDLC
+**Languages**
 
-## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### QA & Testing Tools
+**Databases & Version Control**
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Programming & Scripting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</td>
+</tr>
+</table>
 
 ## 🏆 Leadership & Achievements
 
